@@ -1,3 +1,15 @@
+# 오늘의 정리
+
+Math.floor() : 나머지를 제거해주는 내림함수
+
+parseInt() : 문자열 인자를 파싱하여 특정 진수의 정수를 반환
+
+Math.trunc()소수 자릿수를 제거하여 숫자의 정수 부분을 반환
+
+
+---
+
+
 # [level 0] 몫 구하기 - 120805 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120805) 

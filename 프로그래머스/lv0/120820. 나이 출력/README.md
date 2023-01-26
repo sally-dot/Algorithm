@@ -62,5 +62,16 @@
 <li>2022년 기준 23살이므로 2000년생입니다.</li>
 </ul>
 
+<hr>
+
+### sally's solution
+
+```
+function solution(age) { 
+    var year = 2023 - age
+    return year;
+}
+```
+
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

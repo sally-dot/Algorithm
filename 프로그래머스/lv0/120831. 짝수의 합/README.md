@@ -62,7 +62,8 @@
 <hr>
 
 <p>나의 풀이</p>
-``` javascript
+
+```
 
 function solution(n) {
   let answer = 0;
@@ -72,6 +73,3 @@ for (let i=2; i<=n; i+=2)
 }
 
 ```
-
-
-> 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
